@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CoverageSession xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Summary numSequencePoints="8" visitedSequencePoints="0" numBranchPoints="2" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" visitedClasses="0" numClasses="2" visitedMethods="0" numMethods="2" />
+  <Modules>
+    <Module skippedDueTo="Filter" hash="7F-4E-EA-3B-6F-54-D3-91-5E-FE-62-68-9E-42-98-12-3C-7D-D8-12">
+      <ModulePath>C:\WINDOWS\Microsoft.Net\assembly\GAC_64\mscorlib\v4.0_4.0.0.0__b77a5c561934e089\mscorlib.dll</ModulePath>
+      <ModuleTime>2016-07-16T11:43:57.1242712Z</ModuleTime>
+      <ModuleName>mscorlib</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="C9-73-ED-04-00-C6-51-60-27-F2-A0-0B-90-05-B8-86-6E-DB-6B-00">
+      <ModulePath>C:\temp\Acme1\src\tools\xunit.runner.console\tools\xunit.console.exe</ModulePath>
+      <ModuleTime>2016-11-30T22:17:27.3865495Z</ModuleTime>
+      <ModuleName>xunit.console</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="2C-BE-1B-C3-02-35-ED-A0-CC-7C-AB-BA-F1-C5-8D-DE-79-03-01-9A">
+      <ModulePath>C:\temp\Acme1\src\tools\xunit.runner.console\tools\xunit.runner.utility.desktop.dll</ModulePath>
+      <ModuleTime>2016-11-30T22:17:27.5525472Z</ModuleTime>
+      <ModuleName>xunit.runner.utility.desktop</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="9E-A9-5D-7F-86-82-4D-02-7D-07-AD-C0-17-06-5D-73-8F-1F-28-44">
+      <ModulePath>C:\temp\Acme1\src\tools\xunit.runner.console\tools\xunit.abstractions.dll</ModulePath>
+      <ModuleTime>2016-11-30T22:17:27.3385485Z</ModuleTime>
+      <ModuleName>xunit.abstractions</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="E5-DE-BE-E6-36-3A-18-9D-19-75-10-62-04-4B-5A-43-5C-48-C4-34">
+      <ModulePath>C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Core\v4.0_4.0.0.0__b77a5c561934e089\System.Core.dll</ModulePath>
+      <ModuleTime>2016-07-16T11:43:57.1711464Z</ModuleTime>
+      <ModuleName>System.Core</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="AA-84-EA-4A-FD-23-17-44-E5-3B-73-2A-3D-B6-0E-17-EE-E1-53-6A">
+      <ModulePath>C:\temp\Acme1\src\tools\xunit.runner.console\tools\xunit.runner.reporters.desktop.dll</ModulePath>
+      <ModuleTime>2016-11-30T22:17:27.4840484Z</ModuleTime>
+      <ModuleName>xunit.runner.reporters.desktop</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="10-57-A7-EF-79-9A-41-A9-99-64-D8-4D-FD-F3-F2-D8-DF-89-08-EC">
+      <ModulePath>C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Net.Http\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Net.Http.dll</ModulePath>
+      <ModuleTime>2016-07-16T11:43:55.5773993Z</ModuleTime>
+      <ModuleName>System.Net.Http</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="2F-06-CB-9E-45-EB-3F-7A-7A-0E-09-BA-75-25-0C-EF-AA-90-8E-2B">
+      <ModulePath>C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll</ModulePath>
+      <ModuleTime>2016-07-16T11:43:55.5461496Z</ModuleTime>
+      <ModuleName>System</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="55-AD-EE-D1-1C-53-49-75-E3-88-58-79-CF-B4-C2-5D-9B-C6-56-C1">
+      <ModulePath>C:\WINDOWS\Microsoft.Net\assembly\GAC_64\System.Web\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Web.dll</ModulePath>
+      <ModuleTime>2016-07-16T11:43:59.421142Z</ModuleTime>
+      <ModuleName>System.Web</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="83-29-FE-C7-E7-7A-90-21-8F-92-A4-B2-93-EC-A9-9B-7E-10-7C-E5">
+      <ModulePath>C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Xml.Linq\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.Linq.dll</ModulePath>
+      <ModuleTime>2016-07-16T11:43:57.0930219Z</ModuleTime>
+      <ModuleName>System.Xml.Linq</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="88-45-F0-9C-3C-9F-72-79-CB-6A-82-FA-D7-DB-C3-4A-59-80-3C-6B">
+      <ModulePath>C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Xml\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.dll</ModulePath>
+      <ModuleTime>2016-07-16T11:43:55.4992744Z</ModuleTime>
+      <ModuleName>System.Xml</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="34-A3-5D-67-8E-E7-DB-60-FE-97-F3-BD-D4-E7-40-6B-00-DA-51-C8">
+      <ModulePath>C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Configuration\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll</ModulePath>
+      <ModuleTime>2016-07-16T11:43:53.9992781Z</ModuleTime>
+      <ModuleName>System.Configuration</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="2C-BE-1B-C3-02-35-ED-A0-CC-7C-AB-BA-F1-C5-8D-DE-79-03-01-9A">
+      <ModulePath>C:\Users\awcoa\AppData\Local\Temp\d480123c-7386-4f5c-be1d-d6add60b4d0b\d480123c-7386-4f5c-be1d-d6add60b4d0b\assembly\dl3\593e5e24\6085bd88_574bd201\xunit.runner.utility.desktop.dll</ModulePath>
+      <ModuleTime>2016-12-04T21:53:10.7548581Z</ModuleTime>
+      <ModuleName>xunit.runner.utility.desktop</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="E5-DE-BE-E6-36-3A-18-9D-19-75-10-62-04-4B-5A-43-5C-48-C4-34">
+      <ModulePath>C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Core\v4.0_4.0.0.0__b77a5c561934e089\System.Core.dll</ModulePath>
+      <ModuleTime>2016-07-16T11:43:57.1711464Z</ModuleTime>
+      <ModuleName>System.Core</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="2F-06-CB-9E-45-EB-3F-7A-7A-0E-09-BA-75-25-0C-EF-AA-90-8E-2B">
+      <ModulePath>C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll</ModulePath>
+      <ModuleTime>2016-07-16T11:43:55.5461496Z</ModuleTime>
+      <ModuleName>System</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="">
+      <ModulePath>RefEmit_InMemoryManifestModule</ModulePath>
+      <ModuleTime>0001-01-01T00:00:00</ModuleTime>
+      <ModuleName>Anonymously Hosted DynamicMethods Assembly</ModuleName>
+      <Classes />
+    </Module>
+    <Module hash="C0-31-D7-B7-8B-52-29-3A-C3-B5-14-87-BF-D7-DD-27-F4-97-8F-76">
+      <Summary numSequencePoints="8" visitedSequencePoints="0" numBranchPoints="2" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" visitedClasses="0" numClasses="2" visitedMethods="0" numMethods="2" />
+      <ModulePath>C:\temp\Acme1\src\Acme.UnitTests\bin\Debug\Acme.UnitTests.dll</ModulePath>
+      <ModuleTime>2016-12-04T21:48:41.3001385Z</ModuleTime>
+      <ModuleName>Acme.UnitTests</ModuleName>
+      <Files>
+        <File uid="1" fullPath="C:\temp\Acme1\src\Acme.UnitTests\AppTests.cs" />
+        <File uid="2" fullPath="C:\temp\Acme1\src\Acme.UnitTests\ViewModels\MainPageViewModelTests.cs" />
+      </Files>
+      <Classes>
+        <Class>
+          <Summary numSequencePoints="0" visitedSequencePoints="0" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="0" minCyclomaticComplexity="0" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="0" />
+          <FullName>&lt;Module&gt;</FullName>
+          <Methods />
+        </Class>
+        <Class>
+          <Summary numSequencePoints="2" visitedSequencePoints="0" numBranchPoints="1" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" visitedClasses="0" numClasses="1" visitedMethods="0" numMethods="1" />
+          <FullName>Acme.UnitTests.AppTests</FullName>
+          <Methods>
+            <Method visited="false" cyclomaticComplexity="1" nPathComplexity="0" sequenceCoverage="0" branchCoverage="0" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="2" visitedSequencePoints="0" numBranchPoints="1" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="1" />
+              <MetadataToken>100663297</MetadataToken>
+              <Name>System.Void Acme.UnitTests.AppTests::TestExample()</Name>
+              <FileRef uid="1" />
+              <SequencePoints>
+                <SequencePoint vc="0" uspid="1" ordinal="0" offset="0" sl="14" sc="9" el="14" ec="10" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="0" uspid="2" ordinal="1" offset="1" sl="16" sc="9" el="16" ec="10" bec="0" bev="0" fileid="1" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="0" uspid="1" ordinal="0" offset="0" sl="14" sc="9" el="14" ec="10" bec="0" bev="0" fileid="1" />
+            </Method>
+            <Method visited="false" cyclomaticComplexity="1" nPathComplexity="0" sequenceCoverage="0" branchCoverage="0" isConstructor="true" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="0" visitedSequencePoints="0" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="0" />
+              <MetadataToken>100663298</MetadataToken>
+              <Name>System.Void Acme.UnitTests.AppTests::.ctor()</Name>
+              <SequencePoints />
+              <BranchPoints />
+              <MethodPoint vc="0" uspid="3" ordinal="0" offset="0" />
+            </Method>
+          </Methods>
+        </Class>
+        <Class>
+          <Summary numSequencePoints="6" visitedSequencePoints="0" numBranchPoints="1" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" visitedClasses="0" numClasses="1" visitedMethods="0" numMethods="1" />
+          <FullName>Acme.UnitTests.ViewModels.MainPageViewModelTests</FullName>
+          <Methods>
+            <Method visited="false" cyclomaticComplexity="1" nPathComplexity="0" sequenceCoverage="0" branchCoverage="0" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="6" visitedSequencePoints="0" numBranchPoints="1" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="1" />
+              <MetadataToken>100663299</MetadataToken>
+              <Name>System.Void Acme.UnitTests.ViewModels.MainPageViewModelTests::Test1()</Name>
+              <FileRef uid="2" />
+              <SequencePoints>
+                <SequencePoint vc="0" uspid="4" ordinal="0" offset="0" sl="16" sc="9" el="16" ec="10" bec="0" bev="0" fileid="2" />
+                <SequencePoint vc="0" uspid="5" ordinal="1" offset="1" sl="17" sc="13" el="17" ec="46" bec="0" bev="0" fileid="2" />
+                <SequencePoint vc="0" uspid="6" ordinal="2" offset="7" sl="18" sc="13" el="18" ec="32" bec="0" bev="0" fileid="2" />
+                <SequencePoint vc="0" uspid="7" ordinal="3" offset="19" sl="19" sc="13" el="19" ec="80" bec="0" bev="0" fileid="2" />
+                <SequencePoint vc="0" uspid="8" ordinal="4" offset="48" sl="20" sc="13" el="20" ec="31" bec="0" bev="0" fileid="2" />
+                <SequencePoint vc="0" uspid="9" ordinal="5" offset="56" sl="21" sc="9" el="21" ec="10" bec="0" bev="0" fileid="2" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="0" uspid="4" ordinal="0" offset="0" sl="16" sc="9" el="16" ec="10" bec="0" bev="0" fileid="2" />
+            </Method>
+            <Method visited="false" cyclomaticComplexity="1" nPathComplexity="0" sequenceCoverage="0" branchCoverage="0" isConstructor="true" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="0" visitedSequencePoints="0" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="0" />
+              <MetadataToken>100663300</MetadataToken>
+              <Name>System.Void Acme.UnitTests.ViewModels.MainPageViewModelTests::.ctor()</Name>
+              <SequencePoints />
+              <BranchPoints />
+              <MethodPoint vc="0" uspid="10" ordinal="0" offset="0" />
+            </Method>
+          </Methods>
+        </Class>
+      </Classes>
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="51-60-07-3A-41-C0-01-C6-0C-80-56-7D-83-63-89-31-36-5F-A9-FE">
+      <ModulePath>C:\Users\awcoa\AppData\Local\Temp\d72e3ddc-d79b-4e8f-ba45-e49a139cc1c5\d72e3ddc-d79b-4e8f-ba45-e49a139cc1c5\assembly\dl3\e87c31f6\0082be60_42f9d001\xunit.execution.desktop.dll</ModulePath>
+      <ModuleTime>2016-12-04T21:53:11.1716688Z</ModuleTime>
+      <ModuleName>xunit.execution.desktop</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="9E-A9-5D-7F-86-82-4D-02-7D-07-AD-C0-17-06-5D-73-8F-1F-28-44">
+      <ModulePath>C:\Users\awcoa\AppData\Local\Temp\d72e3ddc-d79b-4e8f-ba45-e49a139cc1c5\d72e3ddc-d79b-4e8f-ba45-e49a139cc1c5\assembly\dl3\f47b361d\009d9bcd_595fd001\xunit.abstractions.dll</ModulePath>
+      <ModuleTime>2016-12-04T21:53:11.196669Z</ModuleTime>
+      <ModuleName>xunit.abstractions</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="2F-06-CB-9E-45-EB-3F-7A-7A-0E-09-BA-75-25-0C-EF-AA-90-8E-2B">
+      <ModulePath>C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll</ModulePath>
+      <ModuleTime>2016-07-16T11:43:55.5461496Z</ModuleTime>
+      <ModuleName>System</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="C0-31-D7-B7-8B-52-29-3A-C3-B5-14-87-BF-D7-DD-27-F4-97-8F-76">
+      <ModulePath>C:\Users\awcoa\AppData\Local\Temp\d72e3ddc-d79b-4e8f-ba45-e49a139cc1c5\d72e3ddc-d79b-4e8f-ba45-e49a139cc1c5\assembly\dl3\1ade72f6\a94e772d_784ed201\Acme.UnitTests.dll</ModulePath>
+      <ModuleTime>2016-12-04T21:53:11.2296724Z</ModuleTime>
+      <ModuleName>Acme.UnitTests</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="9F-06-B1-CA-CB-A0-C1-4D-45-F5-AA-8F-72-C0-DF-0F-F4-EF-29-CF">
+      <ModulePath>C:\Users\awcoa\AppData\Local\Temp\d72e3ddc-d79b-4e8f-ba45-e49a139cc1c5\d72e3ddc-d79b-4e8f-ba45-e49a139cc1c5\assembly\dl3\d1680cc5\00558d5f_42f9d001\xunit.core.dll</ModulePath>
+      <ModuleTime>2016-12-04T21:53:11.3086691Z</ModuleTime>
+      <ModuleName>xunit.core</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="E5-DE-BE-E6-36-3A-18-9D-19-75-10-62-04-4B-5A-43-5C-48-C4-34">
+      <ModulePath>C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Core\v4.0_4.0.0.0__b77a5c561934e089\System.Core.dll</ModulePath>
+      <ModuleTime>2016-07-16T11:43:57.1711464Z</ModuleTime>
+      <ModuleName>System.Core</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="80-F1-27-EE-EC-CF-73-80-64-F1-24-F4-EB-2A-0A-95-BF-DA-78-B6">
+      <ModulePath>C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Runtime\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Runtime.dll</ModulePath>
+      <ModuleTime>2016-07-16T11:43:55.5773993Z</ModuleTime>
+      <ModuleName>System.Runtime</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="FB-A8-28-7E-D3-81-DD-16-9A-F4-F7-07-E9-F1-48-3B-6D-E4-C2-4E">
+      <ModulePath>C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Threading.Tasks\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Threading.Tasks.dll</ModulePath>
+      <ModuleTime>2016-07-16T11:43:53.8586529Z</ModuleTime>
+      <ModuleName>System.Threading.Tasks</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="B0-27-34-ED-41-E0-9C-53-37-4D-FB-B4-60-39-84-52-AC-FB-A6-85">
+      <ModulePath>C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Collections\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Collections.dll</ModulePath>
+      <ModuleTime>2016-07-16T11:43:57.3273959Z</ModuleTime>
+      <ModuleName>System.Collections</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="81-A9-13-16-9A-83-8B-26-63-2A-F6-63-DC-3C-A1-15-95-B9-DC-0F">
+      <ModulePath>C:\Users\awcoa\AppData\Local\Temp\d72e3ddc-d79b-4e8f-ba45-e49a139cc1c5\d72e3ddc-d79b-4e8f-ba45-e49a139cc1c5\assembly\dl3\4ac941d2\f572562d_784ed201\Acme.dll</ModulePath>
+      <ModuleTime>2016-12-04T21:53:11.8736696Z</ModuleTime>
+      <ModuleName>Acme</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="B7-0C-B6-E8-11-B8-57-5A-FC-1D-99-CC-30-2C-32-CB-B9-AF-DF-DA">
+      <ModulePath>C:\Users\awcoa\AppData\Local\Temp\d72e3ddc-d79b-4e8f-ba45-e49a139cc1c5\d72e3ddc-d79b-4e8f-ba45-e49a139cc1c5\assembly\dl3\eda197be\00365ea0_96f2d101\Prism.dll</ModulePath>
+      <ModuleTime>2016-12-04T21:53:11.8976683Z</ModuleTime>
+      <ModuleName>Prism</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="24-E2-E3-49-0F-4F-78-7C-B5-54-EA-40-CB-45-0D-D0-39-7F-8F-64">
+      <ModulePath>C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.ObjectModel\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.ObjectModel.dll</ModulePath>
+      <ModuleTime>2016-07-16T11:43:57.0773968Z</ModuleTime>
+      <ModuleName>System.ObjectModel</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="D0-C0-E7-2B-3A-6A-B1-E8-C1-F0-6D-6A-93-7D-46-DD-F8-14-6E-0B">
+      <ModulePath>C:\Users\awcoa\AppData\Local\Temp\d72e3ddc-d79b-4e8f-ba45-e49a139cc1c5\d72e3ddc-d79b-4e8f-ba45-e49a139cc1c5\assembly\dl3\a823ec27\00638fa1_96f2d101\Prism.Forms.dll</ModulePath>
+      <ModuleTime>2016-12-04T21:53:11.9286703Z</ModuleTime>
+      <ModuleName>Prism.Forms</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="07-45-D5-E5-64-A5-50-1F-70-A0-AC-85-75-89-96-B5-69-A5-81-0F">
+      <ModulePath>C:\Users\awcoa\AppData\Local\Temp\d72e3ddc-d79b-4e8f-ba45-e49a139cc1c5\d72e3ddc-d79b-4e8f-ba45-e49a139cc1c5\assembly\dl3\fcb4303d\00285c5e_42f9d001\xunit.assert.dll</ModulePath>
+      <ModuleTime>2016-12-04T21:53:11.9551702Z</ModuleTime>
+      <ModuleName>xunit.assert</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="75-EB-DF-67-C7-D9-2C-67-6C-89-4C-DD-5D-1A-80-25-B9-D6-B7-4A">
+      <ModulePath>C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Reflection\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Reflection.dll</ModulePath>
+      <ModuleTime>2016-07-16T11:43:53.9211528Z</ModuleTime>
+      <ModuleName>System.Reflection</ModuleName>
+      <Classes />
+    </Module>
+  </Modules>
+</CoverageSession>
