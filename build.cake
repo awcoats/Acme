@@ -59,6 +59,17 @@ Task("Run-Unit-Tests")
     });
 });
 
+Task("FunctionalTests")      
+    .Does(() =>
+{
+    //TODO - check to see if WinAppDriver is running.
+    //TODO - start C:\Program Files (x86)\Windows Application Driver\WinAppDriver.EXECUTION
+    //TODO http://127.0.0.1:4723/status - see if responds.
+    XUnit2("./**/bin/" + configuration + "/Acme.FunctionalTests.dll", new XUnit2Settings(){
+    });
+});
+
+
 Task("CodeCoverage")    
     //.IsDependentOn("Build")  
     .Does(() =>
@@ -82,6 +93,8 @@ Task("CodeCoverage")
     
     ReportGenerator("./coverageResults.xml", "./Reports/Coverage");
 });
+
+
 
 //////////////////////////////////////////////////////////////////////
 // TASK TARGETS
